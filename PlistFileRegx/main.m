@@ -11,7 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        NSLog(@"The command has three options.\nThe first is the file path.\nThe second is the array key.\nThe second is the match string.\nThe third is the replaced string");
+        NSLog(@"The command has four options.\nThe first is the file path.\nThe second is the array key.\nThe third is the match string.\nThe forth is the replaced string");
         for (int n = 1; n < 4; n++) {
             if (!argv[n]) {
                 NSLog(@"The %d option is null",n);
