@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		12517C6219F4B3E400181A1F /* PlistFileRegx */ = {
+		12517C6219F4B3E400181A1F /* plistFileRegx */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 12517C6A19F4B3E400181A1F /* Build configuration list for PBXNativeTarget "PlistFileRegx" */;
+			buildConfigurationList = 12517C6A19F4B3E400181A1F /* Build configuration list for PBXNativeTarget "plistFileRegx" */;
 			buildPhases = (
 				12517C5F19F4B3E400181A1F /* Sources */,
 				12517C6019F4B3E400181A1F /* Frameworks */,
@@ -78,7 +78,7 @@
 			);
 			dependencies = (
 			);
-			name = PlistFileRegx;
+			name = plistFileRegx;
 			productName = PlistFileRegx;
 			productReference = 12517C6319F4B3E400181A1F /* PlistFileRegx */;
 			productType = "com.apple.product-type.tool";
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				12517C6219F4B3E400181A1F /* PlistFileRegx */,
+				12517C6219F4B3E400181A1F /* plistFileRegx */,
 			);
 		};
 /* End PBXProject section */
@@ -242,7 +242,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		12517C6A19F4B3E400181A1F /* Build configuration list for PBXNativeTarget "PlistFileRegx" */ = {
+		12517C6A19F4B3E400181A1F /* Build configuration list for PBXNativeTarget "plistFileRegx" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				12517C6B19F4B3E400181A1F /* Debug */,
